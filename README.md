@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Passionate about creating products that solve meaningful problems through thoughtful design, product strategy, and user-centered experiences. I enjoy turning ideas into scalable digital products, building design systems, and bridging the gap between business goals, technology, and human needs. Currently exploring product development, startups, and the future of digital innovation.
+Passionate about building products that make a meaningful impact. I combine product thinking, user experience, strategy, and creativity to transform ideas into intuitive digital experiences. My interests extend beyond design into product development, startups, innovation, and creating solutions that bridge user needs with business success. Always learning, always building, and always looking for the next challenge worth solving.
 </p>
 
 <p align="center">
@@ -19,40 +19,74 @@ Passionate about creating products that solve meaningful problems through though
 
 <h2 align="center">🛠 Toolbox</h2>
 
-<p align="center"><b>🎨 Design</b></p>
+<p align="center"><b>🎨 Design & Creative</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-1D4ED8?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-1D4ED8?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-1D4ED8?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer-1D4ED8?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-1D4ED8?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-1D4ED8?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Affinity_Designer-1D4ED8?style=for-the-badge&logo=affinitydesigner&logoColor=white" />
 </p>
 
-<p align="center"><b>📐 Product</b></p>
+<p align="center"><b>🎬 Motion & Multimedia</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/UX_Research-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/After_Effects-1D4ED8?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-1D4ED8?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+</p>
+
+<p align="center"><b>🧊 3D & Visualization</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Blender-1D4ED8?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autodesk_Maya-1D4ED8?style=for-the-badge&logo=autodeskmaya&logoColor=white" />
+  <img src="https://img.shields.io/badge/3ds_Max-1D4ED8?style=for-the-badge&logo=autodesk&logoColor=white" />
+</p>
+
+<p align="center"><b>🤖 AI & Product Creation</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-1D4ED8?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-1D4ED8?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-1D4ED8?style=for-the-badge&logo=lovable&logoColor=white" />
+</p>
+
+<p align="center"><b>🔍 UX Research & Strategy</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/User_Research-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/User_Interviews_%26_Surveys-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/User_Personas-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Journey_Mapping-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/User_Flows-1E3A8A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Information_Architecture-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design_Systems-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product_Strategy-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Competitive_Analysis-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Usability_Testing-1E3A8A?style=for-the-badge" />
+</p>
+
+<p align="center"><b>✨ Product Design</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireframing-1E3A8A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prototyping-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interaction_Design-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive_Design-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_Systems-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UX_Writing-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Accessibility_(WCAG)-1E3A8A?style=for-the-badge" />
 </p>
 
-<p align="center"><b>⚡ Building</b></p>
+<p align="center"><b>🚀 Product & Business</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Cursor-0C4A6E?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-0C4A6E?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Product_Discovery-0C4A6E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rapid_Prototyping-0C4A6E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product_Strategy-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product_Development-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SaaS_Products-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Startup_Building-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product_Thinking-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_Leadership-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Creative_Direction-1E3A8A?style=for-the-badge" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:1E3A8A&height=3" />
-
-<h2 align="center">🚀 Currently Exploring</h2>
+<p align="center"><b>💻 Technical</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Product_Development-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SaaS_Products-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Startup_Building-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design_Leadership-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Creative_Direction-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Front--End_(HTML_%E2%80%A2_CSS_%E2%80%A2_JS)-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer_Handoff-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI--Assisted_Workflows-1E3A8A?style=for-the-badge" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=120&section=footer" />
